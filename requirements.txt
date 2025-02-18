@@ -6,7 +6,7 @@ langchain-openai
 langchain-community
 pinecone
 pinecone-text
-
-#vector embeddings creation requirements
-langchain_pinecone
+nltk==3.8.1
+# #vector embeddings creation requirements
+# langchain-pinecone
 
