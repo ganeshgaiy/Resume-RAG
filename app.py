@@ -68,7 +68,7 @@ def process_query(query: str, docs):
     return response.content
 
 # Streamlit UI
-st.title("Resume Q&A with Hybrid Search")
+st.title("Ganesh's Resume Q&A")
 
 user_prompt = st.text_input("Enter your query about the resumes:", 
                            placeholder="e.g., 'What are the technical skills mentioned in the resumes?'")
