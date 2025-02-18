@@ -1,0 +1,12 @@
+#app.py requirements
+streamlit
+langchain
+langchain-groq 
+langchain-openai
+langchain-community
+pinecone
+pinecone-text
+
+#vector embeddings creation requirements
+langchain_pinecone
+
