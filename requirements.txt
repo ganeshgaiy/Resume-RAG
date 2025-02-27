@@ -8,5 +8,6 @@ pinecone
 pinecone-text
 nltk==3.8.1
 # #vector embeddings creation requirements
-# langchain-pinecone
+langchain-pinecone
+pypdf
 
