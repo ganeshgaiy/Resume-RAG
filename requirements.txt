@@ -4,7 +4,7 @@ langchain
 langchain-groq 
 langchain-openai
 langchain-community
-pinecone
+pinecone==6.0.1
 pinecone-text
 nltk==3.8.1
 # #vector embeddings creation requirements
