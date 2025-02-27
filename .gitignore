@@ -172,3 +172,4 @@ cython_debug/
 
 
 ganesh-resumes
+create_embeddings.py
